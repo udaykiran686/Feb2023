@@ -11,3 +11,5 @@ added
 * branches are created rel_1.1
 
 * again testing branches
+
+* branch rel_1.2 added
