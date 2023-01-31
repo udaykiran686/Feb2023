@@ -7,4 +7,5 @@ added
 * src/app.py
 * src/requirements.txt
 
-* branches are created
+* branches are created rel_1.0
+* branches are created rel_1.1
